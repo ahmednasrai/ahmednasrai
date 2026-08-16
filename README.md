@@ -31,6 +31,6 @@ Currently, I focus on training high-performance Deep Learning models and deployi
 ---
 
 ### 🤝 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmednasrai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nasr-51b0242a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmednasrai.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed365j@gmail.com)
